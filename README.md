@@ -12,7 +12,6 @@ Discover devices, intercept traffic (MITM), and analyze DNS/SNI requests in real
 
 ## ✨ Features
 
-* **🎨 Ultra Modern UI**: Built with `CustomTkinter` for a premium dark-mode experience.
 * **🔍 Advanced Device Scanning**: Instant discovery of all devices (IP, MAC, Vendor).
 * **👁️ Deep Packet Inspection (DPI)**:
     * **DNS Snooping**: Sees what websites devices are asking for.
@@ -74,3 +73,4 @@ sudo python net_admin.py
 
 **For Educational and Diagnostic Purposes Only.**
 This software is designed for network administrators to monitor their *own* networks. Attempting to intercept traffic on networks you do not own or have permission to test is illegal and punishable by law. The authors accept no responsibility for unauthorized use.
+
