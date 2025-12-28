@@ -27,7 +27,8 @@
 
 The easiest way to run the tool. No command line required.
 
-1.  **[Unknown link `Download Network_Monitor_v2.zip`](#)** (Simulated Link)
+1.  **Download this Repository**: [https://github.com/shubhambelbase/Network-Scanner](https://github.com/shubhambelbase/Network-Scanner)
+    *   Click the green **"Code"** button > **"Download ZIP"**.
 2.  Extract the ZIP file to a folder.
 3.  Right-click **`run_monitor.bat`** and select **"Run as Administrator"**.
     *   *Note: usage of Npcap (included in Wireshark) is recommended for best performance.*
@@ -47,7 +48,7 @@ Since this tool requires low-level network access, you must run it with `sudo`/r
 **Terminal Setup:**
 ```bash
 # Clone or Download this repository
-git clone https://github.com/your-repo/network-monitor.git
+git clone https://github.com/shubhambelbase/Network-Scanner.git
 cd network-monitor
 
 # Install Python Dependencies
@@ -86,4 +87,4 @@ sudo python3 net_admin.py
 This software is designed for network administrators to monitor their *own* networks. Attempting to intercept traffic on networks you do not own or have permission to test is illegal and punishable by law. The authors accept no responsibility for unauthorized use.
 
 ---
-*Built with ❤️ by Antigravity*
+*Built with ❤️ by Shubham*
